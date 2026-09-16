@@ -1,6 +1,6 @@
 SCAPY ICMP PACKET SENDER
 
-Author: CyberPersian
+Author: catinblackhat
 
 DESCRIPTION
 
