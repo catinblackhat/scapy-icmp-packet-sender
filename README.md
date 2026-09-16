@@ -99,6 +99,6 @@ This project is part of my learning journey in Python, networking, and cybersecu
 
 AUTHOR
 
-CyberPersian
+catinblackhat
 
 Created as a personal learning project.
